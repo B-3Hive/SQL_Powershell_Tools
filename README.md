@@ -1,6 +1,7 @@
 # SQL Server Multi-Connection Tester
 
 A Windows Forms utility for testing SQL Server connectivity, opening and managing multiple connections, running queries on open connections, viewing results, and exporting results to CSV.
+<img width="1132" height="813" alt="image" src="https://github.com/user-attachments/assets/f84830cd-09a2-4b97-af76-17ce1ad1c156" />
 
 ## Requirements
 
